@@ -1,0 +1,19 @@
+## SQL Server specific files
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+*.tmp
+
+## Visual Studio specific (if you use SQL Server Data Tools)
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.sln.docstates
+
+## OS generated files
+.DS_Store
+Thumbs.db
